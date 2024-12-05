@@ -7,7 +7,7 @@
 
   [![My TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlueBenjaminBen.png)](https://tryhackme.com/p/BlueBenjaminBen)
 - 📫 Reach me by email: benjaminle805@gmail.com  
-- ⚡ Fun fact: Ask me about my 2024 INBRE Summer Research Project! (Working on getting it on github :) )
+- ⚡ Fun fact: Ask me about my 2024 INBRE Summer Research Project! (Working on making it public on my profile :) )
 
 <!---
 BlueBenjaminBen/BlueBenjaminBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
