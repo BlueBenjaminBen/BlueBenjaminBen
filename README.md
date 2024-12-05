@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Benjamin Le
 - 👀 I’m interested in computer science and cybersecurity and figuring out how to learn and create ways to secure our future!
 - 🌱 I’m currently pursuing my B.S. in computer science, but outside of my academics, I'm trying to stay informed and get hands on expereince regarding cybersecurity
-     by being a part of UD's CTF club and online learning/projects.
+     by being a part of UD's CTF club and tyring online learning/projects outside of the classroom.
   
   My TryHackMe Badge:
 
