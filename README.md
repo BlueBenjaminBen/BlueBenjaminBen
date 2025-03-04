@@ -6,7 +6,7 @@
   Checkout my TryHackMe Profile! : https://tryhackme.com/p/BlueBenjaminBen
   <br></br>
 - 📫 Reach me by email: benjaminle805@gmail.com  
-- ⚡ Fun fact: Check out my VR-AI-ASL Summer 2024 Research Project! I just made it public!
+- ⚡ Fun fact: Check out my team's recent hackathon project: FeastFinders    Find your Feast!
 
 <!---
 BlueBenjaminBen/BlueBenjaminBen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
