@@ -5,7 +5,8 @@
   
   Checkout my TryHackMe Profile! : https://tryhackme.com/p/BlueBenjaminBen
   <br></br>
-- 📫 Reach me by email: benjaminle805@gmail.com  
+- 📫 Reach me by email: benjaminle805@gmail.com
+- 🔗 Lets connect: https://www.linkedin.com/in/benjamin--le/
 - ⚡ Fun fact: Check out my most recent experience as an R&D intern at NMS Labs and the cool automation tools I made on my website!
 
 <!---
